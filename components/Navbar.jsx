@@ -17,7 +17,7 @@ const Navbar = () => {
           <div className="flex-shrink-0">
             <a href="#" className="flex items-center">
               <img
-                src="/images/logo.png" // Update this path to your logo image
+                src="./logo.png" // Update this path to your logo image
                 alt="My Logo"
                 className="h-[4rem] w-auto" // Adjust size as necessary
               />
